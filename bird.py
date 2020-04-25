@@ -1,5 +1,4 @@
-#count_ping = input('count ping')
-i=4
+count_penguins = input('count peng')
 while i>0:
 	print('   _~_    ')
 	print('  (o o)  ')
